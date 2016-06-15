@@ -409,3 +409,4 @@ admin/controller/tool/backup.php
 admin/language/zh-CN/tool/backup.php
 admin/model/tool/backup.php
 admin/view/template/tool/backup.tpl
+system/startup.php
