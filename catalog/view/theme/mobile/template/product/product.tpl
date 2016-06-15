@@ -503,7 +503,7 @@ $('.buy_now').on('click', function() {
 
       if (json['error']) {
         $('html, body').animate({scrollTop: $("#options").parent().offset().top}, 0);
-        //$.Prompt('请选择选项！', '1500');
+        // $.Prompt('请选择选项！', '1500');
         if (json['error']['option']) {
           for (i in json['error']['option']) {
             var element = $('#input-option' + i.replace('_', '-'));
@@ -522,7 +522,7 @@ $('.buy_now').on('click', function() {
 
       if (json['success']) {
         $('.cart_total').show();
-        $.Prompt('跳转至购物车...', '100000');
+        // $.Prompt('跳转至购物车...', '100000');
         location = 'index.php?route=checkout/cart';
       }
     }
