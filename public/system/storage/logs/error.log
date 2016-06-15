@@ -1,0 +1,16 @@
+2016-06-12 9:06:10 - PHP Notice:  Undefined variable: shopping_cart in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/product/product.tpl on line 7
+2016-06-12 9:06:59 - PHP Notice:  Undefined variable: shopping_cart in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/product/product.tpl on line 7
+2016-06-12 9:09:53 - PHP Notice:  Undefined variable: shopping_cart in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/product/product.tpl on line 7
+2016-06-12 9:10:01 - PHP Notice:  Undefined variable: shopping_cart in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/product/product.tpl on line 7
+2016-06-12 9:10:06 - PHP Notice:  Undefined variable: shopping_cart in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/product/product.tpl on line 7
+2016-06-12 9:10:12 - PHP Notice:  Undefined variable: shopping_cart in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/product/product.tpl on line 7
+2016-06-13 10:56:32 - PHP Notice:  Undefined index: popup in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/checkout/cart.tpl on line 46
+2016-06-14 2:21:06 - PHP Notice:  Undefined offset: 2 in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/checkout/cart.tpl on line 12
+2016-06-14 8:48:57 - PHP Notice:  Undefined variable: logout in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/account.tpl on line 52
+2016-06-14 8:48:57 - PHP Notice:  Undefined variable: text_logout in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/account.tpl on line 52
+2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 14
+2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 20
+2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 20
+2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 21
+2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 24
+2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 34
