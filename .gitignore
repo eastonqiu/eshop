@@ -14,3 +14,4 @@
 !/public/system/storage/logs/index.html
 !/public/system/storage/cache/index.html
 /public/.sass-cache
+/vendor

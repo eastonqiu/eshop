@@ -1,0 +1,21 @@
+<modification>
+	<id>微信登录控件</id>
+	<version>For OpenCart 2.x.x</version>
+	<vqmver>1.0</vqmver>
+	<author>QQM</author>
+
+  <!--weixin browser detect-->
+  <file name="catalog/controller/account/login.php">
+      <operation>
+          <search position="before"><![CDATA[$this->load->language('account/login');]]></search>
+          <add>
+            <![CDATA[
+              if(empty($this->request->get['local']) && strpos($_SERVER['HTTP_USER_AGENT'], 'MicroMessenger') !== false){ 
+                header('location:' . $this->url->link('account/weixin_login'));
+                exit;
+              } 
+            ]]></add>
+      </operation>
+  </file>
+
+</modification>

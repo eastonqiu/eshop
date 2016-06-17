@@ -14,3 +14,132 @@
 2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 21
 2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 24
 2016-06-14 9:14:53 - PHP Notice:  Undefined variable: product in /home/qqm/workspace/oc/catalog/view/theme/mobile/template/account/wishlist.tpl on line 34
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 18
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 19
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 21
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 22
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 24
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 25
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 26
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 28
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 29
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 30
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 31
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 36
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 41
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 43
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 49
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 55
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 61
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 63
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 69
+2016-06-16 7:41:13 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 75
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 18
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 19
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 21
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 22
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 24
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 25
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 26
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 28
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 29
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 30
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 31
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 36
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 41
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 43
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 49
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 55
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 61
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 63
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 69
+2016-06-16 7:45:25 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 75
+2016-06-16 7:45:25 - PHP Warning:  extract() expects parameter 1 to be array, null given in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 76
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: header in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 1
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: breadcrumbs in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 4
+2016-06-16 7:45:25 - PHP Warning:  Invalid argument supplied for foreach() in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 4
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: error_warning in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 8
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: heading_title in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 13
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: button_save in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 14
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: cancel in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 14
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: button_cancel in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 14
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: action in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 17
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: entry_appkey in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 20
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: weixin_appid in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 21
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: entry_appsecret in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 24
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: weixin_appsecret in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 25
+2016-06-16 7:45:25 - PHP Notice:  Undefined variable: footer in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 31
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 18
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 19
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 21
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 22
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 24
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 25
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 26
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 28
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 29
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 30
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 31
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 36
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 41
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 43
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 49
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 55
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 61
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 63
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 69
+2016-06-16 7:45:35 - PHP Notice:  Indirect modification of overloaded property ControllerModuleWeixinLogin::$data has no effect in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 75
+2016-06-16 7:45:35 - PHP Warning:  extract() expects parameter 1 to be array, null given in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 76
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: header in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 1
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: breadcrumbs in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 4
+2016-06-16 7:45:35 - PHP Warning:  Invalid argument supplied for foreach() in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 4
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: error_warning in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 8
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: heading_title in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 13
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: button_save in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 14
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: cancel in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 14
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: button_cancel in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 14
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: action in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 17
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: entry_appkey in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 20
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: weixin_appid in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 21
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: entry_appsecret in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 24
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: weixin_appsecret in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 25
+2016-06-16 7:45:35 - PHP Notice:  Undefined variable: footer in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 31
+2016-06-16 7:48:46 - PHP Notice:  Undefined variable: header in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 1
+2016-06-16 7:48:46 - PHP Notice:  Undefined variable: footer in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 31
+2016-06-16 8:03:16 - PHP Notice:  Undefined variable: error_name in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 46
+2016-06-16 8:03:16 - PHP Notice:  Undefined variable: error_name in /home/qqm/workspace/oc/public/admin/view/template/module/weixin_login.tpl on line 56
+2016-06-16 8:58:04 - PHP Notice:  Undefined variable: module_info in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 81
+2016-06-16 8:58:52 - PHP Notice:  Undefined variable: module_info in /home/qqm/workspace/oc/public/admin/controller/module/weixin_login.php on line 81
+2016-06-17 2:49:21 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-17 2:49:40 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: create_firstname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: create_lastname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: create_email in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: create_telephone in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: create_fax in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: create_password in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:50 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 62
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: create_firstname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: create_lastname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: create_email in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: create_telephone in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: create_fax in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: create_password in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:34:59 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 62
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: create_firstname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: create_lastname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: create_email in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: create_telephone in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: create_fax in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: create_password in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 4:35:18 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 62
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: create_firstname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: create_lastname in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: create_email in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: create_telephone in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: create_fax in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: create_password in /home/qqm/workspace/oc/public/catalog/model/account/weixin_login.php on line 14
+2016-06-17 6:18:13 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 64
+2016-06-17 6:20:28 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 64
+2016-06-17 6:27:26 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 64
+2016-06-17 6:33:14 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51

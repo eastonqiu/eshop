@@ -108,6 +108,10 @@ function vendor($class) {
 	}
 }
 
+// Autoloader
+if (file_exists(DIR_SYSTEM . '../../vendor/autoload.php')) {
+	require_once(DIR_SYSTEM . '../../vendor/autoload.php');
+}
 spl_autoload_register('library');
 spl_autoload_register('vendor');
 spl_autoload_extensions('.php');
