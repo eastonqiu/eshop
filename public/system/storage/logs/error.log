@@ -143,3 +143,36 @@
 2016-06-17 6:20:28 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 64
 2016-06-17 6:27:26 - PHP Notice:  Undefined index: customer_id in /home/qqm/workspace/oc/public/catalog/controller/account/weixin_login.php on line 64
 2016-06-17 6:33:14 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-20 9:22:59 - PHP Notice:  Error: Could not load template /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay! in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 86
+2016-06-20 9:28:32 - PHP Notice:  Error: Could not load template /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay! in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 86
+2016-06-20 9:44:26 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-20 9:47:47 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-20 9:48:44 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-20 9:50:25 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-20 9:50:27 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-20 9:51:01 - PHP Notice:  Error: Could not load model /home/qqm/workspace/oc/public/catalog/model/payment/wxpay.php! in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 63
+2016-06-20 10:03:05 - PHP Notice:  Undefined index: payment_fullname in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 49
+2016-06-20 10:03:05 - PHP Notice:  Undefined index: weixin_openid in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 93
+2016-06-20 10:11:16 - PHP Notice:  Undefined index: name in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 47
+2016-06-20 10:17:09 - PHP Notice:  Undefined index: weixin_openid in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 92
+2016-06-20 10:56:48 - PHP Notice:  Error: Could not load template /home/qqm/workspace/oc/public/catalog/view/theme/payment/wxpay! in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 86
+2016-06-20 10:57:37 - PHP Notice:  Error: Could not load template /home/qqm/workspace/oc/public/catalog/view/theme/payment/wxpay.tpl! in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-system_storage_modification_system_engine_loader.php on line 86
+2016-06-21 8:21:09 - PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/qqm/workspace/oc/public/vqmod/vqcache/vq2-catalog_controller_account_login.php on line 51
+2016-06-22 4:18:37 - PHP Notice:  Undefined variable: prepayId in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 160
+2016-06-22 4:18:37 - PHP Notice:  Undefined variable: tools in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 170
+2016-06-22 4:23:02 - PHP Notice:  Undefined variable: tools in /home/qqm/workspace/oc/public/catalog/controller/payment/wxpay.php on line 175
+2016-06-22 4:27:37 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 42
+2016-06-22 7:02:41 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-22 7:07:44 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-22 7:11:10 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-22 7:11:49 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-22 7:12:38 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 44
+2016-06-22 7:14:03 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-22 7:53:33 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-22 8:46:11 - PHP Notice:  Undefined variable: help_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 75
+2016-06-22 8:46:11 - PHP Notice:  Undefined variable: entry_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 75
+2016-06-22 8:46:11 - PHP Notice:  Undefined variable: entry_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 77
+2016-06-22 8:46:11 - PHP Notice:  Undefined variable: error_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 78
+2016-06-22 8:48:21 - PHP Notice:  Undefined variable: error_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 78
+2016-06-22 8:52:51 - PHP Notice:  Undefined variable: error_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 78
+2016-06-22 8:58:22 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43

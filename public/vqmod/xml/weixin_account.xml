@@ -11,7 +11,7 @@
           <add>
             <![CDATA[
               if(empty($this->request->get['local']) && strpos($_SERVER['HTTP_USER_AGENT'], 'MicroMessenger') !== false){ 
-                header('location:' . $this->url->link('account/weixin_login'));
+                header('location:' . $this->url->link('account/weixin_account'));
                 exit;
               } 
             ]]></add>

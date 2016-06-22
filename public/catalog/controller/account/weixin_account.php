@@ -1,20 +1,19 @@
 <?php
 use EasyWeChat\Foundation\Application;
 
-class ControllerAccountWeixinLogin extends Controller {
+class ControllerAccountWeixinAccount extends Controller {
 	private $error = array();
 	
 	public function index() {
-	    echo 'hello world';
         $options = [
             'debug'     => true,
-            'app_id'    => 'wxdf007e9e043f97c9',
-            'secret'    => '7e5d862b14ec61d5a190d4621cbec481',
-            'token'     => 'wechat',
+            'app_id'    => $this->config->get('wxpay_appid'),
+            'secret'    => $this->config->get('wxpay_appsecret'),
+            'token'     => $this->config->get('wxpay_token'),
             'oauth' => [
                 'scopes'   => ['snsapi_userinfo'],
-                // 'callback' => $this->url->link('account/weixin_login/redirect'),
-                'callback' => 'http://wx.dev.yunchongba.com/index.php?route=account/weixin_login/redirect&type=xxx',
+                // 'callback' => $this->url->link('account/weixin_account/redirect'),
+                'callback' => 'http://wx.dev.yunchongba.com/index.php?route=account/weixin_account/redirect&type=xxx',
             ],
             'scopes'   => ['snsapi_userinfo'],
         ];
@@ -27,8 +26,9 @@ class ControllerAccountWeixinLogin extends Controller {
   	public function redirect() {
         $options = [
             'debug'     => true,
-            'app_id'    => 'wxdf007e9e043f97c91',
-            'secret'    => '7e5d862b14ec61d5a190d4621cbec481',
+            'app_id'    => $this->config->get('wxpay_appid'),
+            'secret'    => $this->config->get('wxpay_appsecret'),
+            'token'     => $this->config->get('wxpay_token'),
         ];
 
         $app = new Application($options);
@@ -39,13 +39,13 @@ class ControllerAccountWeixinLogin extends Controller {
             $user = $oauth->user();
         } catch(Exception $e) {
             // redirect to login page
-            goPrePage($this->url->link('account/login', 'local=1', 'SSL'));
+            $this->goPrePage($this->url->link('account/login', 'local=1', 'SSL'));
             exit;
         }
 
-        $this->load->model('account/weixin_login');
+        $this->load->model('account/weixin_account');
         $this->load->model('account/customer');
-        if (! $this->model_account_weixin_login->existPlatformId($user->id)) {
+        if (! $this->model_account_weixin_account->existPlatformId($user->id)) {
             // add new user
             $data = [
                 'firstname' => $user->nickname,
@@ -55,10 +55,10 @@ class ControllerAccountWeixinLogin extends Controller {
                 // 'country' => $user->offsetGet('country'),
             ];
 
-            $this->model_account_weixin_login->addCustomer($data, $user->id);
+            $this->model_account_weixin_account->addCustomer($data, $user->id);
         }
 
-        $getInfo = $this->model_account_weixin_login->getInfo($user->id);
+        $getInfo = $this->model_account_weixin_account->getInfo($user->id);
         unset($this->session->data['guest']); 
         $this->session->data['customer_id'] = $getInfo['customer_id'];
         $this->goPrePage();
