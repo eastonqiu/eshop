@@ -17,7 +17,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/braintree/braintree_php/zipball/c7e0e2d1ae21d659cddb5507fb0bf181813b5733",
+                "url": "https://packagist.phpcomposer.com/files/braintree/braintree_php/c7e0e2d1ae21d659cddb5507fb0bf181813b5733.zip",
                 "reference": "c7e0e2d1ae21d659cddb5507fb0bf181813b5733",
                 "shasum": ""
             },
@@ -302,7 +302,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/leafo/scssphp/zipball/ff76df3e45af45e808f3fcd516a2cb5cbc77f45e",
+                "url": "https://packagist.phpcomposer.com/files/leafo/scssphp/ff76df3e45af45e808f3fcd516a2cb5cbc77f45e.zip",
                 "reference": "ff76df3e45af45e808f3fcd516a2cb5cbc77f45e",
                 "shasum": ""
             },
@@ -628,7 +628,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/fe0936ee26643249e916849d48e3a51d5f5e278b",
+                "url": "https://packagist.phpcomposer.com/files/php-fig/log/fe0936ee26643249e916849d48e3a51d5f5e278b.zip",
                 "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b",
                 "shasum": ""
             },

@@ -176,3 +176,7 @@
 2016-06-22 8:48:21 - PHP Notice:  Undefined variable: error_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 78
 2016-06-22 8:52:51 - PHP Notice:  Undefined variable: error_wxpay_token in /home/qqm/workspace/oc/public/admin/view/template/payment/wxpay.tpl on line 78
 2016-06-22 8:58:22 - PHP Notice:  Undefined variable: editAddress in /home/qqm/workspace/oc/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-23 10:37:03 - PHP Notice:  Undefined variable: editAddress in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-23 10:59:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/ycb/uc_client/data/eshop/public/image/cache/catalog/gd/product/yanjing9.1-100x100.jpg' for writing: Permission denied in /var/www/html/ycb/uc_client/data/eshop/public/system/library/image.php on line 64
+2016-06-23 10:59:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/ycb/uc_client/data/eshop/public/image/cache/catalog/gd/product/yanjing9.1-100x100.jpg' for writing: Permission denied in /var/www/html/ycb/uc_client/data/eshop/public/system/library/image.php on line 64
+2016-06-23 11:04:19 - PHP Notice:  Undefined variable: editAddress in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43

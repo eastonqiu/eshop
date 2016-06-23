@@ -1,41 +1,32 @@
 <?php
-if(strpos($_SERVER['SERVER_NAME'], 'td') === false) {
 // HTTP
-define('HTTP_SERVER', 'http://o.qqm.lingyunstrong.com/admin/');
-define('HTTP_CATALOG', 'http://o.qqm.lingyunstrong.com/');
+define('HTTP_SERVER', 'http://oc.dev.yunchongba.com/admin/');
+define('HTTP_CATALOG', 'http://oc.dev.yunchongba.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://o.qqm.lingyunstrong.com/admin/');
-define('HTTPS_CATALOG', 'http://o.qqm.lingyunstrong.com/');
-} else {
-// HTTP
-define('HTTP_SERVER', 'http://o.qqm.td.lingyunstrong.com:1017/admin/');
-define('HTTP_CATALOG', 'http://o.qqm.td.lingyunstrong.com:1017/');
-
-// HTTPS
-define('HTTPS_SERVER', 'http://o.qqm.td.lingyunstrong.com:1017/admin/');
-define('HTTPS_CATALOG', 'http://o.qqm.td.lingyunstrong.com:1017/');
-}
+define('HTTPS_SERVER', 'http://oc.dev.yunchongba.com/admin/');
+define('HTTPS_CATALOG', 'http://oc.dev.yunchongba.com/');
 
 // DIR
-define('DIR_APPLICATION', '/home/qqm/workspace/oc/public/admin/');
-define('DIR_SYSTEM', '/home/qqm/workspace/oc/public/system/');
-define('DIR_LANGUAGE', '/home/qqm/workspace/oc/public/admin/language/');
-define('DIR_TEMPLATE', '/home/qqm/workspace/oc/public/admin/view/template/');
-define('DIR_CONFIG', '/home/qqm/workspace/oc/public/system/config/');
-define('DIR_IMAGE', '/home/qqm/workspace/oc/public/image/');
-define('DIR_CACHE', '/home/qqm/workspace/oc/public/system/storage/cache/');
-define('DIR_DOWNLOAD', '/home/qqm/workspace/oc/public/system/storage/download/');
-define('DIR_LOGS', '/home/qqm/workspace/oc/public/system/storage/logs/');
-define('DIR_MODIFICATION', '/home/qqm/workspace/oc/public/system/storage/modification/');
-define('DIR_UPLOAD', '/home/qqm/workspace/oc/public/system/storage/upload/');
-define('DIR_CATALOG', '/home/qqm/workspace/oc/public/catalog/');
+define('CODE_BASE', '/var/www/html/ycb/uc_client/data/eshop');
+define('DIR_APPLICATION', CODE_BASE . '/public/admin/');
+define('DIR_SYSTEM', CODE_BASE . '/public/system/');
+define('DIR_LANGUAGE', CODE_BASE . '/public/admin/language/');
+define('DIR_TEMPLATE', CODE_BASE . '/public/admin/view/template/');
+define('DIR_CONFIG', CODE_BASE . '/public/system/config/');
+define('DIR_IMAGE', CODE_BASE . '/public/image/');
+define('DIR_CACHE', CODE_BASE . '/public/system/storage/cache/');
+define('DIR_DOWNLOAD', CODE_BASE . '/public/system/storage/download/');
+define('DIR_LOGS', CODE_BASE . '/public/system/storage/logs/');
+define('DIR_MODIFICATION', CODE_BASE . '/public/system/storage/modification/');
+define('DIR_UPLOAD', CODE_BASE . '/public/system/storage/upload/');
+define('DIR_CATALOG', CODE_BASE . '/public/catalog/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'o.qqm.lingyunstrong.com');
+define('DB_HOSTNAME', '127.0.0.1');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'root@mysql@2015');
 define('DB_DATABASE', 'oc');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
