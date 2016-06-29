@@ -43,14 +43,29 @@
 <?php } ?>
 </head>
 
+<?php
+    $active = 0;
+    if(isset($_GET['route'])) {
+        if ($_GET['route'] == 'product/search') {
+            $active = 1;
+        } elseif($_GET['route'] == 'mobile/categoryhome') {
+            $active = 2; 
+        } elseif($_GET['route'] == 'checkout/cart') {
+            $active = 3;     
+        } elseif($_GET['route'] == 'account/login') {
+            $active = 4;     
+        }
+    }
+?>
+
 <nav id="bottom_tab_menu">
   <ul class="list-unstyled">
-    <li><a href="<?php echo $home; ?>" class="active"><i class="iconfont icon-shouye-copy"></i> <div class="name">首页</div></a></li>
-    <li><a href="http://mall.opencart.cn/index.php?route=product/search"><i class="iconfont icon-search"></i> <div class="name">搜索</div></a></li>
-    <li><a href="http://mall.opencart.cn/index.php?route=mobile/categoryhome"><i class="iconfont icon-31leimu"></i> <div class="name">分类</div></a></li>
-    <li><a href="<?php echo $shopping_cart; ?>"><i class="iconfont icon-iconfontgouwuche"><span class="cart_total" style="display:none;"></span></i><div class="name">购物车</div>
+    <li><a href="<?php echo $home; ?>" class="<?php echo $active==0? active:''; ?>"><i class="iconfont icon-shouye-copy"></i> <div class="name">首页</div></a></li>
+    <li><a href="index.php?route=product/search" class="<?php echo $active==1? active:''; ?>"><i class="iconfont icon-search"></i> <div class="name">搜索</div></a></li>
+    <li><a href="index.php?route=mobile/categoryhome" class="<?php echo $active==2? active:''; ?>"><i class="iconfont icon-31leimu"></i> <div class="name">分类</div></a></li>
+    <li><a href="<?php echo $shopping_cart; ?>" class="<?php echo $active==3? active:''; ?>"><i class="iconfont icon-iconfontgouwuche"><span class="cart_total" style="display:none;"></span></i><div class="name">购物车</div>
     </a></li>
-    <li><a href="<?php echo $account; ?>"><i class="iconfont icon-iconfont31wode"></i> <div class="name">会员中心</div> </a></li>
+    <li><a href="<?php echo $account; ?>" class="<?php echo $active==4? active:''; ?>"><i class="iconfont icon-iconfont31wode"></i> <div class="name">会员中心</div> </a></li>
   </ul>
 </nav>
 

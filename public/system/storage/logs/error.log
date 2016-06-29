@@ -180,3 +180,46 @@
 2016-06-23 10:59:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/ycb/uc_client/data/eshop/public/image/cache/catalog/gd/product/yanjing9.1-100x100.jpg' for writing: Permission denied in /var/www/html/ycb/uc_client/data/eshop/public/system/library/image.php on line 64
 2016-06-23 10:59:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/ycb/uc_client/data/eshop/public/image/cache/catalog/gd/product/yanjing9.1-100x100.jpg' for writing: Permission denied in /var/www/html/ycb/uc_client/data/eshop/public/system/library/image.php on line 64
 2016-06-23 11:04:19 - PHP Notice:  Undefined variable: editAddress in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-23 11:09:58 - PHP Notice:  Error: E-Mail to required! in /var/www/html/ycb/uc_client/data/eshop/public/system/library/mail.php on line 61
+2016-06-23 11:10:23 - PHP Notice:  Undefined variable: editAddress in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/default/template/payment/wxpay.tpl on line 43
+2016-06-29 5:10:36 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 48
+2016-06-29 5:10:36 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 50
+2016-06-29 5:10:36 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 52
+2016-06-29 5:10:36 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 54
+2016-06-29 5:10:36 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 61
+2016-06-29 5:10:40 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 48
+2016-06-29 5:10:40 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 50
+2016-06-29 5:10:40 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 52
+2016-06-29 5:10:40 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 54
+2016-06-29 5:10:40 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 61
+2016-06-29 5:11:11 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 49
+2016-06-29 5:11:11 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 51
+2016-06-29 5:11:11 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 53
+2016-06-29 5:11:11 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 55
+2016-06-29 5:11:11 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 62
+2016-06-29 5:12:12 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 49
+2016-06-29 5:12:12 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 51
+2016-06-29 5:12:12 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 53
+2016-06-29 5:12:12 - PHP Notice:  Undefined index: route in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 55
+2016-06-29 5:12:12 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 62
+2016-06-29 5:12:19 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 65
+2016-06-29 5:13:26 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 66
+2016-06-29 5:13:28 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 63
+2016-06-29 5:13:31 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 65
+2016-06-29 5:13:33 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 64
+2016-06-29 5:13:34 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 64
+2016-06-29 5:13:37 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 68
+2016-06-29 5:13:42 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 68
+2016-06-29 5:13:43 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 63
+2016-06-29 5:13:44 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 64
+2016-06-29 5:13:44 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 65
+2016-06-29 5:13:45 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 66
+2016-06-29 5:13:46 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 68
+2016-06-29 5:13:47 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 64
+2016-06-29 5:14:14 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 65
+2016-06-29 5:14:15 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 66
+2016-06-29 5:14:16 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 65
+2016-06-29 5:14:17 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 66
+2016-06-29 5:14:18 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 68
+2016-06-29 5:14:18 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 64
+2016-06-29 5:14:19 - PHP Notice:  Use of undefined constant active - assumed 'active' in /var/www/html/ycb/uc_client/data/eshop/public/catalog/view/theme/mobile/template/common/header.tpl on line 63
